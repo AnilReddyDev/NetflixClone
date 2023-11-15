@@ -20,7 +20,10 @@ export default {
       },
        backgroundImage:{
         netflixbgimage: "url('/src/assets/LoginPageBackgroundImg.jpg')",
-       }
+       },
+       top: {
+        "t10": '40rem',
+      },
     },
   },
   plugins: [],

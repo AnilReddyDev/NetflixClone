@@ -1,3 +1,10 @@
 .LPmain2{
     background: linear-gradient(to top, rgb(2, 2, 2,10%),transparent 80%, rgba(2, 2, 2,80%) 100%);
 }
+.HPboxCon{
+    top: 40rem;
+    /* background: linear-gradient(to top, rgb(10, 10, 10),#121212 80%, rgba(2, 2, 2,40%) 30%); */
+}
+.HPboxCon2{
+    background: linear-gradient(to top, rgb(10, 10, 10),#121212 90%, rgba(2, 2, 2,40%) 60%);
+}
