@@ -87,72 +87,72 @@ export default function HomePage() {
   const netflixActionMovies = [
     {
       title:"The Night Comes for Us",
-      img:"",
+      img:"https://metadata-static.plex.tv/d/gracenote/d0ca98e6cccedd136edc075b5bce154a.jpg",
       id:"001"
     },
     {
       title:"Extraction",
-      img:"",
+      img:"https://woottoncommonsense.com/wp-content/uploads/2020/12/RgOWIjNBqW2ASCmQ3wuGb5GAYnDSRHd1EMipCwJI.jpeg",
       id:"002"
     },
     {
       title:"The Old Guard",
-      img:"",
+      img:"https://miro.medium.com/v2/resize:fit:1358/0*sbm45GK2WvG_oXic.jpg",
       id:"003"
     },
     {
       title:"Triple Frontier",
-      img:"",
+      img:"https://occ-0-33-1123.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXI9Ob2A56S0PNV8PM8Ww5Z-gIlwKzGz6PK5CVHE8ouGDVZK41W0bj5_cQ4echqy4p8xc4IgkmmLuMGStgsMPIz6amIDR20zpZ2A9IankKAJe95khNSc9rBNWKXiJ9UxbqtCRA.jpg?r=b25",
       id:"004"
     },
     {
       title:"Wheelman",
-      img:"",
+      img:"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABVt-wuVyU4TxbLTq4D9RF8RGsGBVVFnsX2eITVNIBPun257Vi1BccwgSumYLOq0Z9yQgYeagwfWUVPKa7XrMb9etsn241jTB6WPJwKGa40Txn03VmC_T9JK4ZuLjySUqpNcWvQ.jpg?r=f7b",
       id:"005"
     },
     {
       title:"Polar",
-      img:"",
+      img:"https://occ-0-34-300.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdP4jX3InivJmH3Zms1rSjPFSTe7et5xFLPOz9ygorsiVbKqKpw00ULLoXqLCsHjsf_4T7s7bdz8KwEOn0FlnPBSULD_flC3gmz7eK-hVV8Iz8GVjVCCS-Sh8CZ_dyrG8aEkpQ.jpg?r=a62",
       id:"006"
     },
     {
       title:"Bright",
-      img:"",
+      img:"https://occ-0-2433-56.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABbEBrD45nXJeLtOYTlQG1QS2xbWaNIHeXFkmEDL3K2l-2a5OjqIwu46ED4Eb0IaHB5eLCjCksPo_y83JullnyH76i566R6WzUHlR245jOuChajpwvUP43b0_8IVg1OKFH8cfjg.jpg?r=57c",
       id:"007"
     },
     {
       title:"Spectral",
-      img:"",
+      img:"https://flixwatch.co/wp-content/uploads/80098200.jpg.webp",
       id:"008"
     },
     {
       title:"Lost Bullet",
-      img:"",
+      img:"https://occ-0-41-38.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZqPykTgWDVt-Nu0Buzv2ZQQ-gDGFL0azuGUrLObAZ4LmMV5hQsgncRLrL266oMIul_g26EdBFaRua7GdLgH77FmlS3Rk3_1WbYXpE9SLAxxPJmuWwhBU7DmdWUKIXJCbb5r9A.jpg?r=506",
       id:"009"
     },
     {
       title:"Kate",
-      img:"",
+      img:"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/447b02151670607.630ff9c255f5a.jpg",
       id:"010"
     },
     {
       title:"Spenser Confidential",
-      img:"",
+      img:"https://occ-0-38-778.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQlrqsYEYKGH8fLLa_d54CGtygPyZToN_SFI6M1fnB3azkHl3HQcIv-IxzbfMrQMimzrsx8dBcLjsbycZhDHYHfT32jBzAg6X77i1-ZQSRAsiEANegJnj2Uf-h5XIst3QeaFuw.jpg?r=a57",
       id:"011"
     },
     {
       title:"6 Underground",
-      img:"",
+      img:"https://occ-0-114-38.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZDQb574eK3ctTQpZEHKZ2nfvHWmLPyqEwK_GvAqbQJl7Uwu3LaRf-eZOauzHXVz7Jq5ac2LkjY_9dB9Y_LpcSXOkuO4Mn_fe0rzc3bHBddG6ZrvHOFNOfI6zxMmNyCSrSA7Hw.jpg?r=074",
       id:"012"
     },
     {
       title:"Gunpowder Milkshake",
-      img:"",
+      img:"https://decider.com/wp-content/uploads/2021/07/GUNPOWDER-MILKSHAKE-NETFLIX-REVIEW.jpg?quality=75&strip=all&w=1200",
       id:"014"
     },
     {
       title:"Anon",
-      img:"",
+      img:"https://occ-0-1217-38.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABelovCu1TpsDVxpN-SlwzW1OSSWzIQmMsjsqomgp57iaBSOrlZxhH2kN5RW5mZP_i-j_ijScCVqQUvpJjN8Ep1uPUOLhiM_qOlpVlOXoOzj5wDmPTsjjjvK-bmPOWDRqj2rvBw.jpg?r=5ef",
       id:"015"
     },
   ]
@@ -406,18 +406,15 @@ export default function HomePage() {
           </div>
         </div>
         <div className='HPboxCon2 px-10 pb-10'>
-          <h1 className=' font-semibold text-white  text-2xl'>Love Stories</h1>
-          <div className='w-full flex  overflow-x-auto gap-2'>
-            <div className=" px-36  h-48 bg-pink-200"></div>
-            <div className=" px-36  h-48 bg-pink-200"></div>
-            <div className=" px-36  h-48 bg-pink-200"></div>
-            <div className=" px-36  h-48 bg-pink-200"></div>
-            <div className=" px-36  h-48 bg-pink-200"></div>
-            <div className=" px-36  h-48 bg-pink-200"></div>
-            <div className=" px-36 h-48 bg-pink-200"></div>
-            <div className=" px-36  h-48 bg-pink-200"></div>
+          <h1 className=' font-semibold text-white  text-2xl'>Action & Adventure</h1>
+          <div className='w-full flex  overflow-x-auto  gap-2'>
+            {netflixActionMovies.map((items) => { // continue from here
+              return <div className=" w-72 h-48 flex-none  bg-pink-200" key={items.id}>
+                <img src={items.img} alt={items.title} className='w-full h-full overflow-hidden  z-20 hover:scale-125 transition-all ease-in' />
+              </div>
+            })}
           </div>
-          <h1 className=' font-semibold text-white pt-4 text-2xl'>Action Stories</h1>
+          <h1 className=' font-semibold text-white pt-4 text-2xl'>Action </h1>
           <div className='w-full flex  overflow-x-auto gap-2'>
             <div className=" px-32 h-48 bg-pink-200"></div>
             <div className=" px-32 h-48 bg-pink-200"></div>
