@@ -159,78 +159,78 @@ export default function HomePage() {
 
   const netflixRomanceMovie = [
     {
-      title:"Cinema Paradiso",
-      img:"",
+      title:"The Last Paradiso",
+      img:"https://occ-0-769-33.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYk0quC4-9qWYVqe79ravzju4BvjjHucAmKwB6XtnQzL26Bc0waLZ_FLtToE7uAhAp6D0XV7ouvEB0XETScekFGh6vCd7QigtVkamMIxSTZ0_ExoO6mleBFtam_HrFUPW3rq_w.jpg?r=47a",
       id:"001"
     },
     {
-      title:"Amelie",
-      img:"",
+      title:"Lust Stories 2",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABefmsTKRs7kXznoWaA76E1rsz9-wYB0Jx-G7qk1the-k9MBZmJi1ISCTEccGIZqbv8JHxRlDZE1Frw00cqiUGG29ysFK4XYz151I67208h2Uxrd41Qc7BvcLXHONOni5w2mk.jpg?r=788",
       id:"002"
     },
     {
-      title:"Annie Hall",
-      img:"",
+      title:"Miss Shetty Mr. Polishetty",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABfM8ngh69h6z0ZrbRQNS0DhynBQ2PnIR-b8g57QBYNqKVU1UIkr6vUKQ5ZagF8uUM1RD6TSJwcINred4C5g8ZWF7x8TtQYrwPl4.jpg?r=a5f",
       id:"003"
     },
     {
-      title:"Titanic",
-      img:"",
+      title:"Fifty Shades of Grey",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUL68Vbj4PqKPhz3KMZkG3OzKQ23-T-uXyUpJABwZasucoPSSczAePaMVDUcRsBenr_2x_0S9T6BdWyH8h54DTplS1aj9L4mWSg.jpg?r=ded",
       id:"004"
     },
     {
-      title:"Days of Heaven",
-      img:"",
+      title:"Ala Vaikunthapurramuloo",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABd28t0_ZDbM_js-FKEmuk09O4XxrSSMmpBG8-dClZstVKPn_gcRzSNMq6syddGUb7WFZBjMRUFiGCofuvQV4S9GN-hCPyX5HC8o.jpg?r=68e",
       id:"005"
     },
     {
-      title:"Manhattan",
-      img:"",
+      title:"khusi",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdOdRoCNEWcOaxIaEdq3oKKO-uF2IrjLelDrpxlSNGBy4J0SNUpjWK7Ds3q7SpPsWKSpqV4zEbRdpebrK8S6Nqul-AC3GYVLcsc.jpg?r=41d",
       id:"006"
     },
     {
-      title:"Blue is the Warmest Color",
-      img:"",
+      title:"The Royal Treatment",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABeICC4SoPlnHYp9NlS2PiEAF8gUOlI02rDSMRn_x2qza1TVX8q7d5gY-sLRzfHICigy8G0KYe5KG1MLEtMt4nbr-Rz31DWsK7udteZ3GANzJDl3NUrg1Cl4vbsmfhwIGyYB2.jpg?r=ba6",
       id:"007"
     },
     {
-      title:"BrokeBack Mountain",
-      img:"",
+      title:"OK Jaanu",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABcTZ9iNMhAh-Bl-Boaflp40NPC8oXem5RKdt4d0TDCfWzBlcq_rwud_KnCu6XboYgltcdImujmP-H1BcFqrXyWoze-FYmmlfghA.jpg?r=0cb",
       id:"008"
     },
     {
-      title:"Sense And Sensibility",
-      img:"",
+      title:"No Hard Feelings",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABb2mePe6uqbKReTVT1xk-Xw-746wf2EqRhVjUA51fNpSFF8J5UvqZYjoPehUbEBQhdaAF9-X_UB6IAzMtISCGkRcIFcJn6mwTV0.jpg?r=41e",
       id:"009"
     },
     {
-      title:"Love Actually",
-      img:"",
+      title:"Malang",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWY7KaZawW83unLQATUZZMLTL00o0UsBh_nZc0hX94O5pDwdV3mD3I1HJVNZx2bd7AZhzpH5u-9UykF3-uGK_QTKdIkSLDRNA3E.jpg?r=23a",
       id:"010"
     },
     {
-      title:"From Here to Eternity",
-      img:"",
+      title:"Through My Window",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABU0vHyXfaJWC4jzRi09ZDV_bytRiQeXnh9GgzaW-SgWGzzhau3uK9U8Z_2H23PglSLUzl47ahIMsugq9umAukO10vEmg_aHGn9XvsLnxS5U8HrYPQqMqp49PQdoCtxi8u79O.jpg?r=fdb",
       id:"011"
     },
     {
-      title:"Fallen Angels",
-      img:"",
+      title:"Kabir Singh",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABeSEKWZTBygP5AJx8HLkG_XraXPfk5fOJjo1PbsHeFwKw-JznysEt2HuX4Y6zxS5RccAUe8cm2HqRF9XMwvvpgGQ576rFS2vMd4.jpg?r=439",
       id:"012"
     },
     {
-      title:"Weekend",
-      img:"",
+      title:"Love at First Sight",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABat3_i7Vx4ocen3z2vpcuJIRW1v4nZvjq7WbI1lynv87Ewl32vxiXurPCvSFmQ30giQ3I9SZUeWi9GN8VadZguGSSO1N58BpJnnKRlm1JV935vZm5dDFpicx9HXW60eg9g9q.jpg?r=dfa",
       id:"013"
     },
     {
-      title:"The English Patient",
-      img:"",
+      title:"Three (Telugu)",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABSfJ__u-PRCCobrq4_gVmUFeposAvGWExXTq7O9YW5f8wCOLYXupR3jQscUvY_ABgW9066gqoKFJOfQqx_TAUS6lXDfFuwYsXLg.jpg?r=351",
       id:"014"
     },
     {
-      title:"Jane Eyre",
-      img:"",
+      title:"Lust Stories",
+      img:"https://occ-0-4486-3663.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYl294Iuvo7iaEAukg8OFa3tLZ6UANfsWHv1XAq0UV3T_lRglo8XTJhGsm45kPeUcMk2keEsnrcgaM0bdw42eAXzIV33EAHQnpXWA0D3hjbi1orMBXIJhcZp7LUfz_JJfqyz.jpg?r=ec8",
       id:"015"
     },
   ]
@@ -238,154 +238,154 @@ export default function HomePage() {
   const netflixHorrorContent = [
     {
       title:"the Ritual",
-      img:"",
+      img:"https://occ-0-64-55.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdfC78e-c6IhdM2swyqehpXRJcIsAIfzF_zhBKoXjaIRu_joeUWJLti5rR7o1ALrsmUA8fP_6PeRB-wz_VGKka5zIxCs18xCmcgtf5fDBumbJfDKQGdK8JCPcm99lshLz96oxQ.jpg?r=5a6",
       id:"001"
     },
     {
       title:"The Good neighbor",
-      img:"",
+      img:"https://i.ytimg.com/vi/hYUtMkRUkjs/mqdefault.jpg",
       id:"002"
     },
     {
       title:"The Conference",
-      img:"",
+      img:"https://www.flixfilm.dk/wp-content/uploads/2023/10/AAAABaYMLrqqxZYdalPjLYBqCZhsY7sK5U-WG6HIGXK2vCKEezn9tmecowvjtxUY-BQSyLQghpfjThNTvsn8Kf-Vm0Miw9JG3RQl32wP5Q1SMf5y3FPejQTxLJ6G_6pJjhUZqBH.jpg",
       id:"003"
     },
     {
       title:"The Unholy",
-      img:"",
+      img:"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWUN8zPSq5BvsoqNQHsRahT6RrCKCZHAXlnIO9Jg_N6UFRS_MSaULIs1J_C5jmwjQfinwg26OwG0TrynbHEI7J5hce-hsJamx4pYenq1EXxEBZm9aT4QoJqDW7pn1TpoOAuoBxRyF6hnijlh7uMSJfHQ5sT8Ui5AspoM2IpHTB5pdc_nMavnqt8mKlq5mF7XukZQqCvEO09MxUKOUhOwcDjivtxZThS6VtHmbtq85Zs-l15CE1toD4nTyBFIevCRCj9MCqPbgAwNm-7ddu7n9h1n1yY.jpg?r=269",
       id:"004"
     },
     {
       title:"Evil Dead",
-      img:"",
+      img:"https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/EVIL-DEAD-RISE.jpg",
       id:"005"
     },
     {
       title:"Sister Death",
-      img:"",
+      img:"https://www.heavenofhorror.com/wp-content/uploads/2023/10/sister-death-2023-netflix-horror-review-1200x720.jpg",
       id:"006"
     },
     {
       title:"Insidious the Red Door",
-      img:"",
+      img:"https://i0.wp.com/thegameofnerds.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-31-at-4.44.39-PM.png?resize=1263%2C640&ssl=1",
       id:"007"
     },
     {
       title:"The Black Phone",
-      img:"",
+      img:"https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/11/the-black-phone-what-we-know.jpg",
       id:"008"
     },
     {
       title:"Annabelle",
-      img:"",
+      img:"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWe2APN0ky-8eW8VBpVll6ZuYcscCMu_p9gHBuQcQ1yOFvJnH2BQbqVgLj9mo3OS1C-bYQT0_50mTkrivNvRK9TbF3QtCONsMSPi.jpg?r=370",
       id:"009"
     },
     {
       title:"Babbe The possession",
-      img:"",
+      img:"https://i.redd.it/j1uigubkkvza1.jpg",
       id:"010"
     },
     {
-      title:"Exorcist The Beginning",
-      img:"",
+      title:"The Invitation",
+      img:"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21629166_v_h2_af.jpg",
       id:"011"
     },
     {
       title:"No One Gets Out Alive",
-      img:"",
+      img:"https://www.voicesfromthebalcony.com/wp-content/uploads/2021/09/No-One-Gets-Out-Alive-Art.jpeg",
       id:"012"
     },
     {
-      title:"The Conjuring",
-      img:"",
+      title:"The Conjuring 2",
+      img:"https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABc71nrC1xlk5GFNC1lHPwFdVfcFEa7Fme4IgnAaAurd3lwcGlwtK5bfMO9fBvXqu9bMcNHhzBzdsoGDboEe38uOkrYq_vGqjgOJF.jpg?r=94f",
       id:"013"
     },
     {
       title:"Virupaksha",
-      img:"",
+      img:"https://assets.mspimages.in/gear/wp-content/uploads/2023/05/Untitled-design-74.jpg",
       id:"014"
     },
     {
       title:"Mirrors",
-      img:"",
+      img:"https://img.etimg.com/thumb/width-640,height-480,imgsize-75530,resizemode-75,msid-99810432/news/new-updates/black-mirror-season-6-on-netflix-release-date-and-all-you-may-want-to-know.jpg",
       id:"015"
     },
   ]
   const netflixSciFanstasy = [
     {
       title:"Jurassic World Camp Cretaceous",
-      img:"",
+      img:"https://occ-0-300-38.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYE13YeIY8JyxbhpV3Kzg8uhTsNLOaVMblZ_sTAB8xSoSLbfu_uQg28fCx9R4f0RNYM0XzzYZ1gT41oVBI1VJdP6fwEorFP1RjW5ehDnm6ryvt9e3x4bej-9w1C5NgUzJeen2w.jpg?r=883",
       id:"001"
     },
     {
       title:"One Piece",
-      img:"",
+      img:"https://staticg.sportskeeda.com/editor/2023/09/5519d-16942998914852-1920.jpg?w=840",
       id:"002"
     },
     {
       title:"Ragnarok",
-      img:"",
+      img:"https://www.tvguide.com/a/img/resize/9a076118640ee9bf08f9aaac01942f413af9e7d5/catalog/provider/1/1/1-8030188267.JPG?fit=crop&height=675&width=1200",
       id:"003"
     },
     {
       title:"Lost in Space",
-      img:"",
+      img:"https://i.ytimg.com/vi/bg6Dv9Vbfao/maxresdefault.jpg",
       id:"004"
     },
     {
       title:"Alice in BorderLand",
-      img:"",
+      img:"https://thekeegshow.com/wp-content/uploads/2022/12/Alice-in-Borderland_poster_2.jpg",
       id:"005"
     },
     {
       title:"Wednesday",
-      img:"",
+      img:"https://millsthunderbolt.com/wp-content/uploads/2023/01/wednesday-scaled.jpeg",
       id:"006"
     },
     {
       title:"Raising Dion",
-      img:"",
+      img:"https://occ-0-300-1007.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABVcw1tr7VGvIKDhKx0G-qcX6-BfPE8Q3xQf4ytB13FjuQ1JvIw6kOYusGxW59V8Ou6aC7psSgx6iFGKRFsVA18dYC4PCKoFd-KELifQoHF-xhVEFpBAagK9-u5KBsVTFPhY80A.jpg?r=702",
       id:"007"
     },
     {
       title:"Manifest",
-      img:"",
+      img:"https://imgeng.jagran.com/images/2023/may/ManifestSeason4Part21685438093828.jpg",
       id:"008"
     },
     {
       title:"The Witcher",
-      img:"",
+      img:"https://magarila.com/the-witcher-posters/the-witcher-posters-2/",
       id:"009"
     },
     {
       title:"Sweet Tooth",
-      img:"",
+      img:"https://wallpapers.com/images/featured/sweet-tooth-pictures-f0xyjm0tov80s7dr.jpg",
       id:"010"
     },
     {
       title:"Znation",
-      img:"",
+      img:"https://images.squarespace-cdn.com/content/v1/5ddd135c3983616e4cce1116/1578496152653-1Q6J6QWL7ZROFFNPZ794/Z+Nation.jpg?format=1000w",
       id:"011"
     },
     {
       title:"Locke & Key",
-      img:"",
+      img:"https://blog.vidangel.com/wp-content/uploads/2022/08/LockeAndKey_Blog_Image.jpg",
       id:"012"
     },
     {
       title:"Another Life",
-      img:"",
+      img:"https://www.heavenofhorror.com/wp-content/uploads/2019/07/another-life-netflix-review.jpg",
       id:"013"
     },
     {
       title:"Fantasy Island",
-      img:"",
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12K7ISEY9iOYqnUzzc15p_DwmnWRud6EWqjlwHP6abDZ_9RyeFz4_4DmEN0GFmGdbPTo&usqp=CAU",
       id:"014"
     },
     {
       title:"Shadow and Bone",
-      img:"",
+      img:"https://i0.wp.com/hollieblog.com/wp-content/uploads/2021/05/Shadow-and-Bone-Netflix.jpg?fit=1170%2C682&ssl=1",
       id:"015"
     },
   ]
@@ -414,27 +414,29 @@ export default function HomePage() {
               </div>
             })}
           </div>
-          <h1 className=' font-semibold text-white pt-4 text-2xl'>Action </h1>
-          <div className='w-full flex  overflow-x-auto gap-2'>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
+          <h1 className=' font-semibold text-white pt-4 text-2xl'>Romantic & Love Stories </h1>
+          <div className='w-full flex  overflow-x-auto  gap-2'>
+            {netflixRomanceMovie.map((items) => { // continue from here
+              return <div className=" w-72 h-48 flex-none  bg-pink-200" key={items.id}>
+                <img src={items.img} alt={items.title} className='w-full h-full overflow-hidden  z-20 hover:scale-125 transition-all ease-in' />
+              </div>
+            })}
           </div>
-          <h1 className=' font-semibold text-white pt-4 text-2xl'>Romance Stories</h1>
-          <div className='w-full flex  overflow-x-auto gap-2'>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
-            <div className=" px-32 h-48 bg-pink-200"></div>
+          <h1 className=' font-semibold text-white pt-4 text-2xl'>Horror Stories</h1>
+          <div className='w-full flex  overflow-x-auto  gap-2'>
+            {netflixHorrorContent.map((items) => { // continue from here
+              return <div className=" w-72 h-48 flex-none  bg-pink-200" key={items.id}>
+                <img src={items.img} alt={items.title} className='w-full h-full overflow-hidden  z-20 hover:scale-125 transition-all ease-in' />
+              </div>
+            })}
+          </div>
+          <h1 className=' font-semibold text-white pt-4 text-2xl'>Sci-Fi & Fantasy Stories</h1>
+          <div className='w-full flex  overflow-x-auto  gap-2'>
+            {netflixSciFanstasy.map((items) => { // continue from here
+              return <div className=" w-72 h-48 flex-none  bg-pink-200" key={items.id}>
+                <img src={items.img} alt={items.title} className='w-full h-full overflow-hidden  z-20 hover:scale-125 transition-all ease-in' />
+              </div>
+            })}
           </div>
         </div>
       </div>
